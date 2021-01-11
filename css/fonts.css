@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../assets/fonts/GothamPro-Bold.woff2') format("woff2"), url('../assets/fonts/GothamPro-Bold.woff') format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../assets/fonts/GothamPro-Light.woff2') format("woff2"), url('../assets/fonts/GothamPro-Light.woff') format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../assets/fonts/GothamPro.woff2') format("woff2"), url('../assets/fonts/GothamPro.woff') format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../assets/fonts/GothamPro-Medium.woff2') format("woff2"), url('../assets/fonts/GothamPro-Medium.woff') format("woff");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../assets/fonts/GothamPro-Black.woff2') format("woff2"), url('../assets/fonts/GothamPro-Black.woff') format("woff");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circe';
+    src: url('../assets/fonts/Circe-Regular.woff2') format("woff2"), url('../assets/fonts/Circe-Regular.woff') format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('../assets/fonts/Circe-ExtraBold.woff2') format("woff2"), url('../assets/fonts/Circe-ExtraBold.woff') format("woff");
+    font-weight: 800;
+    font-style: normal;
+}
